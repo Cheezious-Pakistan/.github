@@ -24,7 +24,7 @@ For our internal team members, please adhere to the following organization polic
 
 ## Need Access?
 
-If you are a new team member or an external partner requiring access to specific repositories, please contact your engineering manager or reach out to our internal IT support at **contactus@cheezious.com** with your GitHub username to request an invitation.
+If you are a new team member or an external partner requiring access to specific repositories, please contact your engineering manager or reach out to our internal IT support at **it.lhr@cheezious.com** with your GitHub username to request an invitation.
 
 ---
 *Bringing the finest taste to tech.*
